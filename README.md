@@ -7,6 +7,7 @@ Fetch_Rewards.mwb & model.pdf - ERD for Proposed RDBMS
 Data structure  reviewed in Python file
 
 Second: Write a query that directly answers a predetermined question from a business stakeholder
+I have used both MySQL and Sql server management studio but have uploaded only MySQL file here
 Fetch_Rewards.sql - Table, Constraints and Insert statement
 Fetch_Rewards_queries.sql - SQL queries & stored procedures which answers business questions
 
